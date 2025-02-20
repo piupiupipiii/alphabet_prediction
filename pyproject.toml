@@ -1,0 +1,48 @@
+[project]
+name = ""
+version = "0.0.1"
+dependencies = [
+    "certifi==2024.2.2",
+    "charset-normalizer==3.3.2",
+    "contourpy==1.2.1",
+    "cycler==0.12.1",
+    "fonttools==4.52.1",
+    "guidata==3.1.0",
+    "guiqwt==4.4.5",
+    "h5py==3.11.0",
+    "idna==3.7",
+    "imageio==2.34.1",
+    "joblib==1.4.2",
+    "kiwisolver==1.4.5",
+    "lazy-loader==0.4",
+    "matplotlib==3.9.0",
+    "networkx==3.3",
+    "numpy==1.26.4",
+    "opencv-python==4.9.0.80",
+    "packaging==24.0",
+    "pandas==2.2.2",
+    "pillow==10.3.0",
+    "pyparsing==3.1.2",
+    "pyqt-tools==1.0.0",
+    "pyqt5==5.15.10",
+    "pyqt5-qt5==5.15.2",
+    "pyqt5-sip==12.13.0",
+    "pyqt5-stubs==5.15.6.0",
+    "python-dateutil==2.9.0.post0",
+    "pythonqwt==0.12.1",
+    "pytz==2024.1",
+    "qtpy==2.4.1",
+    "requests==2.32.2",
+    "scikit-image==0.23.2",
+    "scikit-learn==1.5.0",
+    "scipy==1.13.1",
+    "six==1.16.0",
+    "threadpoolctl==3.5.0",
+    "tifffile==2024.5.22",
+    "tomli==2.0.1",
+    "tzdata==2024.1",
+    "urllib3==2.2.1",
+]
+
+[tool.uv]
+package = false
